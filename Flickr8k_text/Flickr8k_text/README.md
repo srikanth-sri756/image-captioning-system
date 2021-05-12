@@ -1,1 +1,0 @@
-The annotations are placed in this directory. The training and test dataset prepared by `preprocess_data.py` is saved in this directory.
